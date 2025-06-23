@@ -35,13 +35,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=raksha-murugesan&theme=onedark&row=1&column=6" />
-</p>
-
----
 
 ### 📌 Projects I'm Working On:
 - 🔹 Java-based Student Management System
@@ -53,8 +47,8 @@
 
 ### 🔗 Connect with Me:
 <p>
-  <a href="https://www.linkedin.com/in/yourname"><img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img align="left" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rakshambika"><img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:rakshamurugesan82.com"><img align="left" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br><br>
